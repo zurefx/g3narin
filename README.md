@@ -18,15 +18,15 @@
 
 <div align="center">
   <a href="https://github.com/zurefx/IDoraptor">
-    <img src="assets/IDoraptor.svg" width="400" alt="IDoraptor" />
+    <img src="IDoraptor.svg" width="400" alt="IDoraptor" />
   </a>
   &nbsp;
   <a href="https://github.com/zurefx/dotfiles">
-    <img src="assets/dotfiles.svg" width="400" alt="dotfiles" />
+    <img src="dotfiles.svg" width="400" alt="dotfiles" />
   </a>
   <br/><br/>
   <a href="https://zurefx.github.io">
-    <img src="assets/zurefx.github.io.svg" width="400" alt="zurefx.github.io" />
+    <img src="zurefx.github.io.svg" width="400" alt="zurefx.github.io" />
   </a>
 </div>
 
