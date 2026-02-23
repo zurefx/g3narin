@@ -7,7 +7,7 @@
   <a href="https://discordapp.com/users/952261440394375198">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
   </a>
-  <a href="https://app.hackthebox.com/users/2426983">
+  <a href="https://app.hackthebox.com/public/users/2426983">
     <img src="https://img.shields.io/static/v1?message=HackTheBox&logo=hackthebox&label=&color=9FEF00&logoColor=black&labelColor=&style=for-the-badge" height="25" alt="hackthebox logo" />
   </a>
 </div>
