@@ -17,16 +17,17 @@
 <h2 align="left">Repo's 👽</h2>
 
 <div align="center">
-
-| &nbsp; | Repo | Info |
-|:---:|:---|:---|
-| 🔴 | [**zurefx / IDoraptor**](https://github.com/zurefx/IDoraptor) | Offensive security tool — red team & post-exploitation |
-| &nbsp; | ![stars](https://img.shields.io/github/stars/zurefx/IDoraptor?style=flat-square&logo=star&color=BD93F9) ![lang](https://img.shields.io/github/languages/top/zurefx/IDoraptor?style=flat-square&color=FF79C6) ![commit](https://img.shields.io/github/last-commit/zurefx/IDoraptor?style=flat-square&color=8BE9FD&label=last+commit) | &nbsp; |
-| 🗂️ | [**zurefx / dotfiles**](https://github.com/zurefx/dotfiles) | Arch Linux setup — i3 · zsh · Neovim · Dracula |
-| &nbsp; | ![stars](https://img.shields.io/github/stars/zurefx/dotfiles?style=flat-square&logo=star&color=BD93F9) ![lang](https://img.shields.io/github/languages/top/zurefx/dotfiles?style=flat-square&color=FF79C6) ![commit](https://img.shields.io/github/last-commit/zurefx/dotfiles?style=flat-square&color=8BE9FD&label=last+commit) | &nbsp; |
-| 🌐 | [**zurefx / zurefx.github.io**](https://zurefx.github.io) | Personal site & portfolio — dark · minimal · mine |
-| &nbsp; | ![stars](https://img.shields.io/github/stars/zurefx/zurefx.github.io?style=flat-square&logo=star&color=BD93F9) ![site](https://img.shields.io/website?url=https%3A%2F%2Fzurefx.github.io&style=flat-square&color=9FEF00&label=site) ![commit](https://img.shields.io/github/last-commit/zurefx/zurefx.github.io?style=flat-square&color=8BE9FD&label=last+commit) | &nbsp; |
-
+  <a href="https://github.com/zurefx/IDoraptor">
+    <img src="assets/IDoraptor.svg" width="400" alt="IDoraptor" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/zurefx/dotfiles">
+    <img src="assets/dotfiles.svg" width="400" alt="dotfiles" />
+  </a>
+  <br/><br/>
+  <a href="https://zurefx.github.io">
+    <img src="assets/zurefx.github.io.svg" width="400" alt="zurefx.github.io" />
+  </a>
 </div>
 
 ---
